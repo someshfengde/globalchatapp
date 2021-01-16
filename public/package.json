@@ -1,0 +1,6 @@
+{
+    "name": "globalchatapp",
+    "version": "0.0.1",
+    "description": "my chat app for heroku try out ",
+    "dependencies": {}
+}
